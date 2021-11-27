@@ -1,0 +1,11 @@
+
+.showmodel{
+	z-index: 20;
+	background: rgba(0,0,0,0.5);
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom: -100rpx; 
+	top: 0;
+}
+

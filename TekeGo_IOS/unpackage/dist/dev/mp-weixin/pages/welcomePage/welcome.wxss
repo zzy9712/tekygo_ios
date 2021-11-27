@@ -1,0 +1,22 @@
+
+.ba.data-v-aac1310a{
+	box-shadow: 0rpx 0rpx 3rpx #000;
+}
+.bgc-picture1.data-v-aac1310a{
+	 z-index:-22; 
+	 width:100vw; 
+	 height:100vh; 
+	 background-color: #ffcd43;
+	 position: fixed; 
+	 top:0;
+}
+.showmodel.data-v-aac1310a{
+	z-index: 20;
+	background: rgba(0,0,0,0.5);
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom: -100rpx; 
+	top: 0;
+}
+

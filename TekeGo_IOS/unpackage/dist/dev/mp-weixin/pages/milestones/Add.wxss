@@ -1,0 +1,49 @@
+
+.hoverDAA.data-v-c92910a4 {
+  background: #DAA520;
+}
+.all.data-v-c92910a4{
+	position: absolute;
+	width: 83rpx;
+}
+.picker-view.data-v-c92910a4 {
+	height: 162rpx;
+}
+.inputbox.data-v-c92910a4{
+	border: 3rpx solid #c4c4c4;
+	border-radius: 10rpx;
+}
+.data-v-c92910a4 .insty{
+	font-size: 21rpx;
+	font-weight: 800;
+	text-align: center;
+	line-height: 80rpx;
+	color: #ea521f;
+}
+.item.data-v-c92910a4 {
+	display: flex; 
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	font-size: 21rpx; 
+	font-weight: 800;
+}
+.data-v-c92910a4 .indicatorclass{
+	color: #ea521f;
+}
+.data-v-c92910a4 .picker-box{
+  /* width:100%; */
+  border-top:4rpx solid #00649c;
+  border-bottom:4rpx solid #00649c;
+}
+.cityc.data-v-c92910a4{
+    color:#939393;
+}
+.bbb.data-v-c92910a4{
+	width: 80rpx; 
+	height: 80rpx; 
+	background-color: #ebebeb; 
+	border: 5rpx solid #FFFFFF;
+}
+
+

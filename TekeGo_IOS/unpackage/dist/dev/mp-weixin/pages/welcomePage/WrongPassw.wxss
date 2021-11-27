@@ -1,0 +1,28 @@
+
+.noE{
+	line-height: 84rpx; 
+	letter-spacing: 2rpx; 
+	height: 84rpx; 
+	border-radius: 42rpx; 
+	margin: 0 41rpx 20rpx;
+}
+.box-s{
+	box-shadow: 0rpx 0rpx 5rpx #000;
+}
+.bgc-picture2{
+	 z-index:-1; 
+	 width:100%; 
+	 height:100%; 
+	 position: fixed;  
+	 top:0;
+}
+.fboxSha{
+	box-shadow: 0rpx 0rpx 3rpx #000;
+}
+.input1{
+	font-size: 21rpx;
+	font-family: myfonts;
+	font-weight: 800;
+	color: #91a1aa;
+}
+

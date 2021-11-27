@@ -1,0 +1,118 @@
+
+.Teky1.data-v-e95110ec{
+	position: absolute; 
+	top: 29rpx; 
+	width: 60rpx; 
+	height: 60rpx;
+}
+.bgc.data-v-e95110ec{
+	background-color: #eb5d2d;
+}
+.border-sj-left.data-v-e95110ec{
+	width: 0;
+	height: 0;
+	border-top: 40rpx solid #eb5d2d; 
+	border-left: 50rpx solid transparent;
+}
+.border-sj-right.data-v-e95110ec{
+	width: 0;
+	height: 0;
+	border-top: 40rpx solid #eb5d2d;
+	border-right: 50rpx solid transparent;
+}
+.ss.data-v-e95110ec{
+	width: 20rpx; 
+	height: 20rpx; 
+	border-radius: 50%; 
+	background-color: #ee5b30; 
+	margin: 10rpx;
+}
+.active.data-v-e95110ec{
+	width: 30rpx;
+	height: 30rpx; 
+	border-radius: 50%; 
+	background-color: #ee5b30;
+}
+
+
+page.data-v-0fc7d4ca{
+	background-color: #fecb4d;
+}
+.hoverDAA.data-v-0fc7d4ca {
+  background: #DAA520;
+}
+.kaPian.data-v-0fc7d4ca{
+	box-shadow: #000 .2rpx .2rpx 0;
+	height: 144rpx; 
+	background-color: #fafafa; 
+	border-radius: 30rpx;
+}
+.bgc-picture1.data-v-0fc7d4ca{
+	 z-index:-1; 
+	 position: fixed;
+}
+.myAcc1.data-v-0fc7d4ca{
+	position: absolute;
+	top: 40rpx;
+	left: 253rpx;
+}
+.myAcc2.data-v-0fc7d4ca{
+	/* background-color: #fff; */
+	height: 100rpx; 
+	margin: 10rpx 0;
+	border-radius: 10rpx;
+}
+.myAcc2_text1.data-v-0fc7d4ca{
+	color: #d1d3d4; 
+	font-size: 28rpx;
+}
+.myAcc3_text3.data-v-0fc7d4ca{
+	height: 91rpx; 
+	align-items: center; 
+	margin-bottom: 7rpx;
+}
+.b-b-r-l.data-v-0fc7d4ca{
+	border-bottom-left-radius: 55rpx;
+	border-bottom-right-radius: 55rpx;
+}
+.b-b-r-l-52.data-v-0fc7d4ca{
+	border-bottom-left-radius: 52rpx;
+	border-bottom-right-radius: 52rpx;
+}
+.myAcc3.data-v-0fc7d4ca{
+	line-height: 100rpx; 
+	flex: 3; 
+	padding-left: 50rpx;
+	font-size: 25rpx;
+	font-weight: 800;
+}
+.bgc-picture2.data-v-0fc7d4ca{
+	 z-index:-1; 
+	 width:100%; 
+	 height:100%; 
+	 position: fixed; 
+	 bottom:0rpx;
+}
+.active.data-v-0fc7d4ca{
+	width: 30rpx;
+	height: 30rpx; 
+	border-radius: 50%; 
+	background-color: #ee5b30;
+}
+.ss.data-v-0fc7d4ca{
+	width: 20rpx; 
+	height: 20rpx; 
+	border-radius: 50%; 
+	background-color: #ee5b30; 
+	margin: 10rpx;
+}
+.showmodel.data-v-0fc7d4ca{
+	z-index: 20;
+	background: rgba(36,36,36,0.9);
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom: -100rpx; 
+	top: 0;
+}
+

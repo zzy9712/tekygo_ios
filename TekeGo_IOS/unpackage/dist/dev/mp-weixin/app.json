@@ -1,0 +1,87 @@
+{
+    "pages": [
+        "pages/welcomePage/welcome",
+        "pages/welcomePage/inputEmail",
+        "pages/welcomePage/inputPassword",
+        "pages/welcomePage/forgotPassword",
+        "pages/welcomePage/WrongPassw",
+        "pages/welcomePage/noEmailFound",
+        "pages/welcomePage/createAccount",
+        "pages/welcomePage/registerWin",
+        "pages/welcomePage/termsSevice",
+        "pages/subscription/subscription",
+        "pages/subscription/subOk",
+        "pages/subscription/subNoOk",
+        "pages/subscription/contactUS",
+        "pages/subscription/Bind",
+        "pages/index/index",
+        "pages/components/TekyGo-Top",
+        "pages/components/TekyGo",
+        "pages/milestones/milestones",
+        "pages/myAccount/myAccount",
+        "pages/settings/settings",
+        "pages/gamesCenter/gamesCenter",
+        "pages/components/pageStyle1",
+        "pages/components/pageStyle2",
+        "pages/index/gameDetails",
+        "pages/gamesCenter/games",
+        "pages/gamesCenter/gamesData"
+    ],
+    "subPackages": [],
+    "window": {
+        "navigationBarTextStyle": "white",
+        "navigationBarTitleText": "uni-app",
+        "navigationBarBackgroundColor": "#F8F8F8",
+        "backgroundColor": "#F8F8F8",
+        "navigationStyle": "custom"
+    },
+    "tabBar": {
+        "color": "#0b4d6e",
+        "selectedColor": "#0b4d6e",
+        "borderStyle": "black",
+        "backgroundColor": "#FFFFFF",
+        "iconWidth": "45px",
+        "height": "80px",
+        "spacing": "0px",
+        "fontSize": "8px",
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "iconPath": "static/img/tabbar/home.png",
+                "selectedIconPath": "static/img/tabbar/home-1.png",
+                "text": "FEATURED"
+            },
+            {
+                "pagePath": "pages/gamesCenter/gamesCenter",
+                "iconPath": "static/img/tabbar/youXi.png",
+                "selectedIconPath": "static/img/tabbar/youXi-1.png",
+                "text": "GAMES"
+            },
+            {
+                "pagePath": "pages/milestones/milestones",
+                "iconPath": "static/img/tabbar/jiangbei.png",
+                "selectedIconPath": "static/img/tabbar/jiangbei-1.png",
+                "text": "MILESTONES"
+            },
+            {
+                "pagePath": "pages/myAccount/myAccount",
+                "iconPath": "static/img/tabbar/MyACC.png",
+                "selectedIconPath": "static/img/tabbar/MyACC-1.png",
+                "text": "MY ACCOUNT"
+            },
+            {
+                "pagePath": "pages/settings/settings",
+                "iconPath": "static/img/tabbar/settings.png",
+                "selectedIconPath": "static/img/tabbar/settings-1.png",
+                "text": "SETTINGS"
+            }
+        ]
+    },
+    "usingComponents": {
+        "teky-go-top": "/pages/components/TekyGo-Top",
+        "teky-go": "/pages/components/TekyGo",
+        "pop-up": "/pages/components/popUp",
+        "load": "/pages/components/load"
+    },
+    "sitemapLocation": "sitemap.json"
+}

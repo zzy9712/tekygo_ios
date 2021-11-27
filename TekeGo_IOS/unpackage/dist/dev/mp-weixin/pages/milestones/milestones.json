@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": " ",
+  "navigationBarBackgroundColor": "#ee5b33",
+  "usingComponents": {
+    "add": "/pages/milestones/Add",
+    "per-data": "/pages/milestones/personalData"
+  }
+}

@@ -1,0 +1,28 @@
+
+.Teky1.data-v-eff70542{
+	position: absolute; 
+	top: 29rpx; 
+	width: 60rpx; 
+	height: 60rpx;
+}
+.bgc.data-v-eff70542{
+	background-color: #eb5d2d;
+}
+.bgc-picture1.data-v-eff70542{
+	 z-index:-22; 
+	 width:750rpx; 
+	 height:100vh; 
+	 position: fixed; 
+	 top:0;
+}
+.showmodel.data-v-eff70542{
+	z-index: 20;
+	background: rgba(0,0,0,0.5);
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom: -100rpx; 
+	top: 0;
+}
+
+

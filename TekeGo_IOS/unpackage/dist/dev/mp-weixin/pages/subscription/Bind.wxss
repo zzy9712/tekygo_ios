@@ -1,0 +1,12 @@
+
+page.data-v-d8dc8134{
+	background-color: #2b95d0;
+}
+.bgc-picture1.data-v-d8dc8134{
+	 z-index:-1; 
+	 width:100%; 
+	 height:100%; 
+	 position: fixed;  
+	 top:0;
+}
+

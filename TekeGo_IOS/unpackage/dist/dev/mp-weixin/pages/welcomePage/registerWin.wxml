@@ -1,0 +1,1 @@
+<view><image class="bgc-picture2" src="../../static/fristPage/tekyg.png" mode="aspectFill"></image><view style="height:25vh;"></view><view class="ta-c f49rpx color-H0f649c fw800">Success!</view><view data-event-opts="{{[['tap',[['goIndex',['$event']]]]]}}" class="FFF f33rpx ta-c ff " bindtap="__e">You are Registered!</view></view>

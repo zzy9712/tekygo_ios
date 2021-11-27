@@ -1,0 +1,9 @@
+
+.bgc-picture1.data-v-0bbc9d64{
+	 z-index:-1; 
+	 width:100%; 
+	 height:100%; 
+	 position: fixed;  
+	 top:0;
+}
+

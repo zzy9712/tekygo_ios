@@ -1,0 +1,36 @@
+
+.Teky1.data-v-e95110ec{
+	position: absolute; 
+	top: 29rpx; 
+	width: 60rpx; 
+	height: 60rpx;
+}
+.bgc.data-v-e95110ec{
+	background-color: #eb5d2d;
+}
+.border-sj-left.data-v-e95110ec{
+	width: 0;
+	height: 0;
+	border-top: 40rpx solid #eb5d2d; 
+	border-left: 50rpx solid transparent;
+}
+.border-sj-right.data-v-e95110ec{
+	width: 0;
+	height: 0;
+	border-top: 40rpx solid #eb5d2d;
+	border-right: 50rpx solid transparent;
+}
+.ss.data-v-e95110ec{
+	width: 20rpx; 
+	height: 20rpx; 
+	border-radius: 50%; 
+	background-color: #ee5b30; 
+	margin: 10rpx;
+}
+.active.data-v-e95110ec{
+	width: 30rpx;
+	height: 30rpx; 
+	border-radius: 50%; 
+	background-color: #ee5b30;
+}
+

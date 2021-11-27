@@ -1,0 +1,1 @@
+<view><view class="df-jcsb"><view><view class="bgc-o-r" style="height:80rpx;"></view><view class="border-sj-left"></view></view><slot></slot><view><view class="bgc-o-r" style="height:80rpx;"></view><view class="border-sj-right"></view></view></view></view>

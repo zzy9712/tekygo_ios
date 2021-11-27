@@ -1,0 +1,28 @@
+
+page.data-v-6450a134{background-color: #fdc84f;}
+.bg.data-v-6450a134{
+	background-color: rgba(0, 0, 0, 0.5);
+	z-index: 20;
+	height: 100 vh;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.dele.data-v-6450a134{
+	height: 80rpx; 
+	background-color: #fdca50; 
+	width: 500rpx;
+	line-height: 80rpx;
+	color: #d3520c;
+	border-radius: 20rpx;
+}
+.showmodel.data-v-6450a134{
+	z-index: 20;
+	background: rgba(36,36,36,0.9);
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom: -100rpx; 
+	top: 0;
+}
+

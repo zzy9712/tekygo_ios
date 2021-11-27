@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": " ",
+  "navigationBarBackgroundColor": "#ee5b33",
+  "usingComponents": {
+    "set-smoll": "/pages/settings/settingSomll",
+    "setting-help": "/pages/settings/settingHelp",
+    "setting-terms": "/pages/settings/settingTerms"
+  }
+}

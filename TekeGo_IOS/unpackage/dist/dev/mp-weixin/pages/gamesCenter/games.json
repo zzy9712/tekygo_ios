@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": " ",
+  "navigationBarBackgroundColor": "#ee5b33",
+  "usingComponents": {
+    "games-data": "/pages/gamesCenter/gamesData",
+    "game-detail": "/pages/index/gameDetails"
+  }
+}

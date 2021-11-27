@@ -1,0 +1,246 @@
+{
+    "setting": {},
+    "condition": {
+        "plugin": {
+            "list": []
+        },
+        "game": {
+            "list": []
+        },
+        "gamePlugin": {
+            "list": []
+        },
+        "miniprogram": {
+            "list": [
+                {
+                    "name": "添加设备",
+                    "pathName": "pages/connectingDevice/connectingDevice",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "家庭",
+                    "pathName": "pages/index/index",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/index/index",
+                    "pathName": "pages/index/index",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "设置",
+                    "pathName": "pages/settings/settings",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "TekyGo-Top",
+                    "pathName": "pages/components/TekyGo-Top",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "页面2",
+                    "pathName": "pages/connectingDevice/pageStyle2",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "详情",
+                    "pathName": "pages/index/gameDetails",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/myAccount/myAccount",
+                    "pathName": "pages/myAccount/myAccount",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "Accoumt",
+                    "pathName": "pages/myAccount/myAccount",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "TekyGo",
+                    "pathName": "pages/components/TekyGo",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "SignUP",
+                    "pathName": "pages/signUP/signUP",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "密码",
+                    "pathName": "pages/forgotYourPassword/forgotYourPassword",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "register",
+                    "pathName": "pages/register/register",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "freeTrial",
+                    "pathName": "pages/freeTrial/freeTrial",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "device",
+                    "pathName": "pages/connectingDevice/connectingDevice",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "index",
+                    "pathName": "pages/index/index",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "Index-gameDetails",
+                    "pathName": "pages/index/gameDetails",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "milestones",
+                    "pathName": "pages/milestones/milestones",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "games-公用",
+                    "pathName": "pages/components/games",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "gamesCenter",
+                    "pathName": "pages/gamesCenter/gamesCenter",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "设置组件",
+                    "pathName": "pages/settings/settingComponents",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "输入密码",
+                    "pathName": "pages/welcomePage/inputPassword",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "welcomePage--createAccount",
+                    "pathName": "pages/welcomePage/createAccount",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "设置",
+                    "pathName": "pages/settings/settings",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "myAccount",
+                    "pathName": "pages/myAccount/myAccount",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "输入邮箱",
+                    "pathName": "pages/welcomePage/inputEmail",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "设置邮箱",
+                    "pathName": "pages/welcomePage/forgotPassword",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "密码错误",
+                    "pathName": "pages/welcomePage/WrongPassw",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "无邮箱",
+                    "pathName": "pages/welcomePage/noEmailFound",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "注册成功",
+                    "pathName": "pages/welcomePage/registerWin",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "wel",
+                    "pathName": "pages/welcomePage/welcome",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "设置",
+                    "pathName": "pages/settings/settings",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "subOk",
+                    "pathName": "pages/subscription/subOk",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "sunNoOk",
+                    "pathName": "pages/subscription/subNoOk",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "CUS",
+                    "pathName": "pages/subscription/contactUS",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "subAll",
+                    "pathName": "pages/subscription/subscription",
+                    "query": "ss=false",
+                    "scene": null
+                },
+                {
+                    "name": "Bind",
+                    "pathName": "pages/subscription/Bind",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "订阅",
+                    "pathName": "pages/subscription/subscription",
+                    "query": "",
+                    "scene": null
+                }
+            ]
+        }
+    }
+}

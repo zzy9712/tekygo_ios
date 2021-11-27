@@ -1,0 +1,45 @@
+
+.bb.data-v-8e2c1cb2{
+	border-top-left-radius: 51rpx;
+	border-top-right-radius: 51rpx;
+}
+
+
+.bb.data-v-4580df1e{
+	border-top-left-radius: 51rpx;
+	border-top-right-radius: 51rpx;
+}
+.input1.data-v-4580df1e{
+	font-size: 24rpx;
+	/* font-family: myfonts; */
+	font-weight: 800;
+	color: #91a1aa;
+}
+.bgc-picture2.data-v-4580df1e{
+	 z-index:-1; 
+	 width:100%; 
+	 height:100%; 
+	 position: fixed;  
+	 top:0;
+}
+.v_Continue.data-v-4580df1e{
+	margin: 0 27rpx 20rpx; 
+	height: 84rpx; 
+	border-radius: 42rpx; 
+	line-height: 84rpx; 
+	letter-spacing: 2rpx; 
+	box-shadow: 0rpx 0rpx 3rpx #000;
+}
+.v_Continue1.data-v-4580df1e{
+	margin: 40rpx 40rpx 0rpx; 
+	height: 84rpx; 
+	border-radius: 42rpx;  
+	line-height: 84rpx; 
+	letter-spacing: 2rpx; 
+	box-shadow: 0rpx 0rpx 3rpx #000;
+}
+.inputname.data-v-4580df1e{ 
+	margin: 0 45rpx 10rpx;  
+	box-shadow: 0 0 5rpx #999b9d;
+}
+
